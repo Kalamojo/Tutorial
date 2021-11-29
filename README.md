@@ -38,6 +38,7 @@ Now it is time to commit your files to your repository. Conveniently, at the bot
 
 5.	Publish Repository
 You should be seeing the repository options screen again upon commitment. To push your repository to GitHub, select the highlighted “Publish repository” button. It will display your repository name and description once more for last-minute edits. Select the publish button again.
+
 ![git_desk_commit](https://user-images.githubusercontent.com/64047609/143938324-ccbb6e72-e528-40a8-b5d9-eff23bf98c97.png)
 
 
