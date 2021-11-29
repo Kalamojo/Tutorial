@@ -13,7 +13,7 @@ In addition to Git, an IDE or Integrated Development Environment will be needed 
 
 
 Instructions for Windows					->
-Windows
+
 1.	Setup GitHub Desktop
 A good option for Git and GitHub control on Windows is through GitHub Desktop. This app allows users to access, edit, and release code without the use of commands and the terminal. To start using this product, download the app at https://desktop.github.com. To begin using it, you must first connect your GitHub account. Select File and then options at the menu at the top right of the window. Next, under accounts, there is an option to sign in. Select the GitHub.com option and enter your credentials.
 
@@ -48,10 +48,10 @@ You should be seeing the repository options screen again upon commitment. To pus
 
 
 Instructions for Linux 						->
-Linux
+
 1.	Connect your GitHub account
 To access your GitHub repositories and make lasting changes, you need to first connect your GitHub account to your terminal. To do this, open your GitHub account in your browser. Locate your account username and email.
-
+![github_profile](https://user-images.githubusercontent.com/64047609/143938590-52f03efc-07b2-4227-bd7e-2c89c4110d1d.png)
 For me, that would be Kalamojo and kalabiprof@gmail.com. With this information, you can now configure your account in the terminal. Open your device terminal by either looking for it in your apps or pressing ‘ctrl + alt + t’ (keep in mind that this pertains to Linux operating systems). Once open, type these commands, replacing Kalamojo with your own username and kalabiprof@gmail.com with your own account email:
 
 git config --global user.name "Kalamojo"
@@ -77,7 +77,7 @@ After creating your program or document, you then need to stage the changes to b
 git add newFile.py
 
 At any given time throughout this process, it may be helpful to use the “git status” command. This does what the name implies, reporting the status of your repository and its files. You can use it after adding your file to ensure that it is staged.
-
+![git_status](https://user-images.githubusercontent.com/64047609/143938676-b80e2594-dc2d-404b-a1c9-ba9a154de142.png)
 
 
 
@@ -86,13 +86,14 @@ To commit your changes to your repository, you can make use of the “git commit
 git commit -m "Created newFile to demonstrate git staging and commitment process"
 
 6.	Create Repository on GitHub
+![github_rep](https://user-images.githubusercontent.com/64047609/143938726-8f3893bf-66af-4473-a3c7-ef461cc61375.png)
 This step could also be the first, but regardless of when it is done, it is necessary to save your repository. This is made very easy on GitHub. On your repository section on GitHub, simply select new repository, give it a title, and create it. This should bring you to the interface of your new repository.
 
 
 
 7.	Push Files to Branch
 Finally, once all your file changes have been staged and committed, you are ready to release them to your GitHub account. To do this, you will need the repository link. On the page of your GitHub repository, there should be a quick setup section. Here, select HTTPS and copy the link in the box to the right.
-
+![github_rep_setup](https://user-images.githubusercontent.com/64047609/143938781-0c909a87-7912-4531-89d7-2b0ab7e70d41.png)
 With the link copied, navigate to your terminal once more. Use these three commands to push your repository to GitHub:
 git branch -M main
 git remote add origin "insert link here"
@@ -111,9 +112,10 @@ If the third command asks you to use your credentials, enter them.
 
  Conclusion						->
 
-Conclusion
-And voilà! If all went well, you should have your very own repository on GitHub up and running. 
 
+And voilà! If all went well, you should have your very own repository on GitHub up and running. 
+![new_rep_W](https://user-images.githubusercontent.com/64047609/143938859-53b184a6-a6b4-4f86-a5e4-43f5359e9db4.png)
+![new_rep_L](https://user-images.githubusercontent.com/64047609/143938871-17d691ed-7bff-49da-8bce-4244a6508197.png)
 This process has many modifications and rearranging the steps in multiple ways may also result in a successful GitHub repository. In addition, there are many other commands that were not used in the tutorial that add extra functionality. This tutorial only went over the basics, so feel free to visit Git or GitHub documentation at their various websites. There are also many other tutorials around that can help you accomplish your goals.
 Reference Links
 	GitHub Tutorial: https://guides.github.com/activities/hello-world/
