@@ -117,8 +117,10 @@ And voilà! If all went well, you should have your very own repository on GitHub
 ![new_rep_W](https://user-images.githubusercontent.com/64047609/143938859-53b184a6-a6b4-4f86-a5e4-43f5359e9db4.png)
 ![new_rep_L](https://user-images.githubusercontent.com/64047609/143938871-17d691ed-7bff-49da-8bce-4244a6508197.png)
 This process has many modifications and rearranging the steps in multiple ways may also result in a successful GitHub repository. In addition, there are many other commands that were not used in the tutorial that add extra functionality. This tutorial only went over the basics, so feel free to visit Git or GitHub documentation at their various websites. There are also many other tutorials around that can help you accomplish your goals.
+
 Reference Links
-	GitHub Tutorial: https://guides.github.com/activities/hello-world/
-	Git Tutorial: https://git-scm.com/docs/gittutorial-2
-	FreeCodeCamp Guide: https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
-	The Odin Project Guide: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics
+
+-	GitHub Tutorial: https://guides.github.com/activities/hello-world/
+-	Git Tutorial: https://git-scm.com/docs/gittutorial-2
+-	FreeCodeCamp Guide: https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+-	The Odin Project Guide: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics
