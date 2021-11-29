@@ -12,13 +12,14 @@ In addition to Git, an IDE or Integrated Development Environment will be needed 
 
 
 
-Instructions for Windows					
+Instructions for Windows					->
 Windows
 1.	Setup GitHub Desktop
 A good option for Git and GitHub control on Windows is through GitHub Desktop. This app allows users to access, edit, and release code without the use of commands and the terminal. To start using this product, download the app at https://desktop.github.com. To begin using it, you must first connect your GitHub account. Select File and then options at the menu at the top right of the window. Next, under accounts, there is an option to sign in. Select the GitHub.com option and enter your credentials.
 
 2.	Create your repository
 Under the File menu option, select New Repository, and enter the name and description. After creating it, you should be brought to a screen that displays your repository options
+![create_repo](https://user-images.githubusercontent.com/64047609/143937929-8803cc8f-d320-4e03-a7e5-e976f00fd3c8.png)
 
 For this tutorial, we are going to select the “Show in Explorer” option. Upon selection, a File window pertaining to your repository should be opened and ready to work with.
 
@@ -28,15 +29,16 @@ For this tutorial, we are going to select the “Show in Explorer” option. Upo
 
 3.	Add your files to Folder
 In your IDE of choice, create a program. Save the file into your repository folder.
-
+![add_file_folder](https://user-images.githubusercontent.com/64047609/143938171-61bd0e22-d17b-435b-88e1-55e1da215430.png)
 Alternatively, you could move already existing files into the folder. When you go back to GitHub Desktop, you should see the changed files listed there, ready to be committed. 
-
+![git_desk_change](https://user-images.githubusercontent.com/64047609/143938245-37b5985c-31b6-40f9-bb2d-b4bad9895eca.png)
 
 4.	Commit changes
 Now it is time to commit your files to your repository. Conveniently, at the bottom-left of your screen, a commitment prompt is positioned. Include the commitment name, and description if desired, and select “Commit to main”.
 
 5.	Publish Repository
 You should be seeing the repository options screen again upon commitment. To push your repository to GitHub, select the highlighted “Publish repository” button. It will display your repository name and description once more for last-minute edits. Select the publish button again.
+![git_desk_commit](https://user-images.githubusercontent.com/64047609/143938324-ccbb6e72-e528-40a8-b5d9-eff23bf98c97.png)
 
 
 
@@ -45,8 +47,7 @@ You should be seeing the repository options screen again upon commitment. To pus
 
 
 
-
-Instructions for Linux 						
+Instructions for Linux 						->
 Linux
 1.	Connect your GitHub account
 To access your GitHub repositories and make lasting changes, you need to first connect your GitHub account to your terminal. To do this, open your GitHub account in your browser. Locate your account username and email.
@@ -108,7 +109,7 @@ If the third command asks you to use your credentials, enter them.
 
 
 
- Conclusion						
+ Conclusion						->
 
 Conclusion
 And voilà! If all went well, you should have your very own repository on GitHub up and running. 
