@@ -82,6 +82,13 @@
     font-style: normal;
   }
 
+
+
+
+  * {
+    max-width: 100%;
+  }
+
 .tutorial-design {
     align-items: center;
     background-color: 
@@ -136,6 +143,20 @@
     top: 0;
     width: 13px;
   }
+  .tutorial-design .vector-21 {
+    height: 2px;
+    left: 8px;
+    position: absolute;
+    top: 6px;
+    width: 14px;
+  }
+  .tutorial-design .vector-18 {
+    height: 14px;
+    left: 16px;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
   
   
   .tutorial-design .tutorial-link {
@@ -186,7 +207,7 @@
   
   .tutorial-design .overlap-group-2 {
     align-items: center;
-    background-image: url(rectangle-27.png);
+    background-image: url(imgs/rectangle-27.png);
     background-position: 50% 50%;
     background-size: cover;
     display: flex;
@@ -451,6 +472,20 @@
     position: absolute;
     top: 39px;
     width: 38px;
+  }
+  .tutorial-design .vector-118 {
+    height: 11px;
+    left: 13px;
+    position: absolute;
+    top: 15px;
+    width: 26px;
+  }
+  .tutorial-design .rectangle-56 {
+    height: 66px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 67px;
   }
   
   .tutorial-design .branches {
