@@ -1,0 +1,683 @@
+.tutorial-design {
+    align-items: center;
+    background-color: 
+  #8c94a8;
+    display: flex;
+    flex-direction: column;
+    height: 6576px;
+    padding: 51px 87px;
+    width: 1440px;
+  }
+  
+  .tutorial-design .navigation {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    min-width: 1258px;
+  }
+  
+  .tutorial-design .overlap-group1 {
+    align-items: center;
+    background-color: var(--pink-pearl);
+    display: flex;
+    height: 98px;
+    min-width: 1250px;
+    padding: 0 34px;
+  }
+  
+  .tutorial-design .group-26 {
+    align-items: flex-start;
+    display: flex;
+    min-width: 199px;
+  }
+  
+  .tutorial-design .link {
+    align-items: center;
+    display: flex;
+    height: 36px;
+    min-width: 36px;
+    padding: 0 3.2px;
+  }
+  
+  .tutorial-design .vector-container {
+    height: 14px;
+    position: relative;
+    width: 30px;
+  }
+  
+  .tutorial-design .vector-17 {
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
+  
+  
+  .tutorial-design .tutorial-link {
+    color: var(--alabaster);
+    font-family: var(--font-family-mplus_1p-extrabold);
+    font-size: var(--font-size-m);
+    font-weight: 800;
+    letter-spacing: 0;
+    min-height: 36px;
+  }
+  
+  .tutorial-design .repositories {
+    letter-spacing: 0;
+    margin-left: 204px;
+    min-height: 36px;
+    min-width: 144px;
+  }
+  
+  .tutorial-design .version-control {
+    letter-spacing: 0;
+    margin-left: 69px;
+    min-height: 36px;
+    min-width: 180px;
+  }
+  
+  .tutorial-design .place {
+    letter-spacing: 0;
+    margin-left: 70px;
+    min-height: 36px;
+    min-width: 103px;
+  }
+  
+  .tutorial-design .git-hub {
+    letter-spacing: 0;
+    margin-left: 65px;
+    min-height: 36px;
+    min-width: 82px;
+  }
+  
+  .tutorial-design .title-page {
+    align-items: flex-start;
+    display: flex;
+    height: 650px;
+    margin-left: 4.0px;
+    margin-top: 111px;
+    min-width: 1254px;
+  }
+  
+  .tutorial-design .overlap-group-2 {
+    align-items: center;
+    background-image: url(rectangle-27.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 650px;
+    padding: 144px 0;
+    width: 1250px;
+  }
+  
+  .tutorial-design .title {
+    color: var(--alabaster);
+    font-family: var(--font-family-mplus_1p-extrabold);
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    letter-spacing: 0;
+    min-height: 87px;
+    width: 592px;
+  }
+  
+  .tutorial-design .by-kolade-alabi {
+    color: var(--amaranth);
+    font-family: var(--font-family-mplus_1p-extrabold);
+    font-size: var(--font-size-l);
+    font-weight: 800;
+    letter-spacing: 0;
+    margin-top: 58px;
+    min-height: 71px;
+    min-width: 400px;
+  }
+  
+  .tutorial-design .overlap-group7 {
+    height: 1810px;
+    margin-left: 2.0px;
+    margin-top: 72px;
+    position: relative;
+    width: 1252px;
+  }
+  
+  .tutorial-design .overlap-group3 {
+    align-items: center;
+    background-color: var(--mirage);
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 1810px;
+    padding: 40.5px 21px;
+    position: absolute;
+    top: 0;
+    width: 1250px;
+  }
+  
+  .tutorial-design .flex-row {
+    align-items: center;
+    display: flex;
+    margin-right: 68.0px;
+    min-width: 400px;
+  }
+  
+  .tutorial-design .ellipse-container {
+    height: 74px;
+    position: relative;
+    width: 67px;
+  }
+  
+  .tutorial-design .ellipse-109 {
+    border: 7px solid var(--amaranth);
+    border-radius: 33px/16px;
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 66px;
+  }
+  
+  .tutorial-design .ellipse-110 {
+    height: 37px;
+    left: 0;
+    position: absolute;
+    top: 38px;
+    width: 67px;
+  }
+  
+  .tutorial-design .ellipse-111 {
+    height: 37px;
+    left: 0;
+    position: absolute;
+    top: 14px;
+    width: 67px;
+  }
+  
+  .tutorial-design .repositories-1 {
+    letter-spacing: 0;
+    line-height: 69.1px;
+    margin-left: 22px;
+    margin-top: 1.5px;
+    min-height: 69px;
+    min-width: 311px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .overlap-group-3 {
+    align-items: center;
+    align-self: flex-start;
+    background-color: var(--alabaster);
+    display: flex;
+    flex-direction: column;
+    margin-left: 29px;
+    margin-top: 72px;
+    min-height: 306px;
+    padding: 12px 0;
+    width: 975px;
+  }
+  
+  .tutorial-design .introduction {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-left: 1.0px;
+    min-height: 35px;
+    min-width: 154px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-3 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 38px;
+    min-height: 135px;
+    width: 847px;
+  }
+  
+  .tutorial-design .overlap-group1-1 {
+    align-items: flex-end;
+    align-self: flex-end;
+    background-color: var(--alabaster);
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    min-height: 567px;
+    padding: 32px 18.4px;
+    width: 674px;
+  }
+  
+  .tutorial-design .what-are-they {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-right: 1.0px;
+    min-height: 38px;
+    white-space: nowrap;
+    width: 191px;
+  }
+  
+  .tutorial-design .text-4 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 43px;
+    min-height: 180px;
+    width: 612px;
+  }
+  
+  .tutorial-design .group-30 {
+    align-items: flex-end;
+    background-color: var(--pink-pearl);
+    display: flex;
+    flex-direction: column;
+    margin-top: 167px;
+    min-height: 429px;
+    padding: 26px 42px;
+    width: 1120px;
+  }
+  
+  .tutorial-design .text-2 {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    min-height: 35px;
+    min-width: 378px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-1 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 23px;
+    min-height: 72px;
+    width: 1007px;
+  }
+  
+  .tutorial-design .image-1 {
+    height: 496px;
+    left: 24px;
+    object-fit: cover;
+    position: absolute;
+    top: 588px;
+    width: 496px;
+  }
+  
+  .tutorial-design .version-control-1 {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 82px;
+    min-width: 1250px;
+  }
+  
+  .tutorial-design .overlap-group {
+    height: 1038px;
+    position: relative;
+    width: 1250px;
+  }
+  
+  .tutorial-design .overlap-group-4 {
+    align-items: flex-start;
+    background-color: var(--alabaster);
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 1038px;
+    padding: 20px 118px;
+    position: absolute;
+    top: 0;
+    width: 1250px;
+  }
+  
+  .tutorial-design .version-control-2 {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 69.1px;
+    margin-right: 95.0px;
+    min-height: 69px;
+    min-width: 389px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-9 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 69px;
+    min-height: 329px;
+    width: 1004px;
+  }
+  
+  .tutorial-design .text-8 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-left: 2px;
+    margin-top: 32px;
+    min-height: 441px;
+    width: 1004px;
+  }
+  
+  .tutorial-design .overlap-group1-2 {
+    height: 66px;
+    left: 795px;
+    position: absolute;
+    top: 10px;
+    width: 67px;
+  }
+  
+  .tutorial-design .rectangle-55 {
+    height: 24px;
+    left: 13px;
+    position: absolute;
+    top: 39px;
+    width: 38px;
+  }
+  
+  .tutorial-design .branches {
+    align-items: flex-end;
+    display: flex;
+    margin-left: 4.0px;
+    margin-top: 78px;
+    min-width: 1254px;
+  }
+  
+  .tutorial-design .overlap-group4 {
+    height: 1372px;
+    margin-bottom: 0;
+    position: relative;
+    width: 1250px;
+  }
+  
+  .tutorial-design .overlap-group1-3 {
+    background-color: var(--mirage);
+    height: 1372px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1250px;
+  }
+  
+  .tutorial-design .place-1 {
+    left: 93px;
+    letter-spacing: 0;
+    line-height: 69.1px;
+    position: absolute;
+    top: 135px;
+    white-space: nowrap;
+    width: 311px;
+  }
+  
+  .tutorial-design .overlap-group-5 {
+    height: 1118px;
+    left: 55px;
+    position: absolute;
+    top: 31px;
+    width: 1180px;
+  }
+  
+  .tutorial-design .rectangle-51 {
+    background-color: var(--shadow-blue);
+    border-radius: 150px;
+    height: 254px;
+    left: 904px;
+    position: absolute;
+    top: 404px;
+    transform: rotate(90.00deg);
+    width: 251px;
+  }
+  
+  .tutorial-design .rectangle-53 {
+    background-color: var(--shadow-blue);
+    border-radius: 150px;
+    height: 254px;
+    left: 927px;
+    position: absolute;
+    top: 865px;
+    transform: rotate(90.00deg);
+    width: 252px;
+  }
+  
+  .tutorial-design .rectangle-52 {
+    background-color: var(--shadow-blue);
+    border-radius: 150px;
+    height: 309px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(-90.00deg);
+    width: 309px;
+  }
+  
+  .tutorial-design .vector-192 {
+    height: 647px;
+    left: 114px;
+    position: absolute;
+    top: 354px;
+    width: 816px;
+  }
+  
+  .tutorial-design .vector-193 {
+    height: 233px;
+    left: 115px;
+    position: absolute;
+    top: 303px;
+    width: 792px;
+  }
+  
+  .tutorial-design .what-are-they-1 {
+    left: 991px;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    position: absolute;
+    top: 543px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-5 {
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    position: absolute;
+    top: 1078px;
+    width: 983px;
+  }
+  
+  .tutorial-design .text-6 {
+    left: 1022px;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    position: absolute;
+    text-align: center;
+    top: 993px;
+    width: 172px;
+  }
+  
+  .tutorial-design .text-7 {
+    left: 197px;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    position: absolute;
+    top: 613px;
+    width: 785px;
+  }
+  
+  .tutorial-design .git-hub-1 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 2.0px;
+    margin-top: 61px;
+    min-width: 1252px;
+  }
+  
+  .tutorial-design .text-10 {
+    left: 85px;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    position: absolute;
+    top: 362px;
+    width: 295px;
+  }
+  
+  .tutorial-design .overlap-group-1 {
+    height: 1038px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1250px;
+  }
+  
+  .tutorial-design .overlap-group-6 {
+    align-items: flex-start;
+    background-color: var(--alabaster);
+    display: flex;
+    height: 1038px;
+    left: 0;
+    min-width: 1250px;
+    padding: 20px 489px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .tutorial-design .git-hub-2 {
+    letter-spacing: 0;
+    line-height: 69.1px;
+    min-height: 69px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .mark-github {
+    align-items: flex-start;
+    display: flex;
+    height: 84px;
+    left: 679px;
+    min-width: 84px;
+    position: absolute;
+    top: 13px;
+  }
+  
+  .tutorial-design .shape {
+    height: 82px;
+    margin-top: -0.04px;
+    width: 84px;
+  }
+  
+  .tutorial-design .overlap-group2 {
+    align-items: flex-end;
+    background-color: var(--pink-pearl);
+    display: flex;
+    flex-direction: column;
+    left: 44px;
+    min-height: 656px;
+    padding: 24px;
+    position: absolute;
+    top: 204px;
+    width: 360px;
+  }
+  
+  .tutorial-design .description {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-right: 1.0px;
+    min-height: 35px;
+    min-width: 143px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-11 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 99px;
+    min-height: 414px;
+    width: 295px;
+  }
+  
+  .tutorial-design .overlap-group3-1 {
+    align-items: flex-start;
+    background-color: var(--mirage);
+    display: flex;
+    flex-direction: column;
+    left: 445px;
+    min-height: 656px;
+    padding: 15px 32px;
+    position: absolute;
+    top: 178px;
+    width: 360px;
+  }
+  
+  .tutorial-design .features {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-right: 1.0px;
+    min-height: 35px;
+    min-width: 109px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-12 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 64px;
+    min-height: 414px;
+    width: 295px;
+  }
+  
+  .tutorial-design .overlap-group4-1 {
+    align-items: flex-start;
+    background-color: var(--pink-pearl);
+    display: flex;
+    flex-direction: column;
+    left: 846px;
+    min-height: 656px;
+    padding: 24px 32px;
+    position: absolute;
+    top: 204px;
+    width: 360px;
+  }
+  
+  .tutorial-design .uses {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-right: 1.0px;
+    min-height: 35px;
+    min-width: 59px;
+    white-space: nowrap;
+  }
+  
+  .tutorial-design .text-13 {
+    letter-spacing: 0;
+    line-height: 34.6px;
+    margin-top: 55px;
+    min-height: 458px;
+    width: 295px;
+  }
+  
+  @import url("https://fonts.googleapis.com/css?family=Poppins:700,800");
+  @font-face {
+    font-family: "Mplus 1p-ExtraBold";
+    font-style: normal;
+    font-weight: 800;
+    src: url("https://fonts.animaapp.com/Mplus1p-ExtraBold") format("truetype");
+  }
+  @font-face {
+    font-family: "Mplus 1p-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/Mplus1p-Regular") format("truetype");
+  }
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
