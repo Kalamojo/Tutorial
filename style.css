@@ -1,3 +1,87 @@
+:root {
+    --black: 
+  rgba(0, 0, 0, 1);
+    --mirage: 
+  rgba(30, 29, 44, 1);
+    --shadow-blue: 
+  rgba(125, 134, 158, 0.251);
+    --pink-pearl: 
+  rgba(164, 115, 131, 1);
+    --amaranth: 
+  rgba(233, 48, 76, 1);
+    --alabaster: 
+  rgba(251, 250, 250, 1);
+  
+    --font-size-m: 24px;
+    --font-size-l: 48px;
+    --font-size-xl: 96px;
+  
+    --font-family-mplus_1p-extrabold: "Mplus 1p-ExtraBold";
+    --font-family-mplus_1p-regular: "Mplus 1p-Regular";
+    --font-family-poppins: "Poppins";
+  }
+
+  .poppins-bold-amaranth-24px {
+    color: var(--amaranth);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .poppins-extra-bold-mirage-48px {
+    color: var(--mirage);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-weight: 800;
+    font-style: normal;
+  }
+  .poppins-extra-bold-alabaster-48px {
+    color: var(--alabaster);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-weight: 800;
+    font-style: normal;
+  }
+  .poppins-bold-mirage-24px {
+    color: var(--mirage);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .mplus1p-regular-normal-alabaster-24px {
+    color: var(--alabaster);
+    font-family: var(--font-family-mplus_1p-regular);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poppins-bold-white-24px {
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .poppins-bold-alabaster-24px {
+    color: var(--alabaster);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-20px-amaranth {
+    border-width: 20px;
+    border-style: solid;
+    border-color: var(--amaranth);
+  }
+  .poppins-extra-bold-alabaster-24px {
+    color: var(--alabaster);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 800;
+    font-style: normal;
+  }
+
 .tutorial-design {
     align-items: center;
     background-color: 
@@ -680,88 +764,4 @@
   .container-center-horizontal > * {
     flex-shrink: 0;
     pointer-events: auto;
-  }
-
-  :root {
-    --black: 
-  rgba(0, 0, 0, 1);
-    --mirage: 
-  rgba(30, 29, 44, 1);
-    --shadow-blue: 
-  rgba(125, 134, 158, 0.251);
-    --pink-pearl: 
-  rgba(164, 115, 131, 1);
-    --amaranth: 
-  rgba(233, 48, 76, 1);
-    --alabaster: 
-  rgba(251, 250, 250, 1);
-  
-    --font-size-m: 24px;
-    --font-size-l: 48px;
-    --font-size-xl: 96px;
-  
-    --font-family-mplus_1p-extrabold: "Mplus 1p-ExtraBold";
-    --font-family-mplus_1p-regular: "Mplus 1p-Regular";
-    --font-family-poppins: "Poppins";
-  }
-
-  .poppins-bold-amaranth-24px {
-    color: var(--amaranth);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-m);
-    font-weight: 700;
-    font-style: normal;
-  }
-  .poppins-extra-bold-mirage-48px {
-    color: var(--mirage);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-l);
-    font-weight: 800;
-    font-style: normal;
-  }
-  .poppins-extra-bold-alabaster-48px {
-    color: var(--alabaster);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-l);
-    font-weight: 800;
-    font-style: normal;
-  }
-  .poppins-bold-mirage-24px {
-    color: var(--mirage);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-m);
-    font-weight: 700;
-    font-style: normal;
-  }
-  .mplus1p-regular-normal-alabaster-24px {
-    color: var(--alabaster);
-    font-family: var(--font-family-mplus_1p-regular);
-    font-size: var(--font-size-m);
-    font-weight: 400;
-    font-style: normal;
-  }
-  .poppins-bold-white-24px {
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-m);
-    font-weight: 700;
-    font-style: normal;
-  }
-  .poppins-bold-alabaster-24px {
-    color: var(--alabaster);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-m);
-    font-weight: 700;
-    font-style: normal;
-  }
-  .border-20px-amaranth {
-    border-width: 20px;
-    border-style: solid;
-    border-color: var(--amaranth);
-  }
-  .poppins-extra-bold-alabaster-24px {
-    color: var(--alabaster);
-    font-family: var(--font-family-poppins);
-    font-size: var(--font-size-m);
-    font-weight: 800;
-    font-style: normal;
   }
