@@ -1,10 +1,10 @@
-Git/GitHub Tutorial
+# Git/GitHub Tutorial
 
 Git and GitHub are used extensively by programmers or anyone working with code. The power of the two combined makes sharing code efficient and manageable. While these two tools work flawlessly together, they are most certainly different things. 
 	The working principle behind each of these tools is repository manipulation. Repositories are containers that store and manage data. Git is software that allows users to place their code into repositories and keep a working log of the changes they have made to that code. Even without GitHub, it is a remarkably powerful tool. GitHub, on the other hand, is a website that allows users to host and manage Git repositories. It also makes the sharing of these repositories much smoother.
 While these tools make version control and file sharing much easier than more primitive methods, they certainly come with their own difficulties. This tutorial will show you how to clone a git repository onto your device, commit your file edits to your chosen repository branch, and then push the file back to GitHub with the updated changes. This specific tutorial only covers the Linux and Windows operating systems, so keep that in mind while looking through.
 
-Prerequisites
+### Prerequisites
 To make use of any Git repositories or commands, the Git software must first be installed. A guide through the installation process is available on the Git Documentation at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. 
 In addition to Git, an IDE or Integrated Development Environment will be needed to create code files for your repository. If you don’t want to download some of the more popular options like Visual Studio, IntelliJ IDEA, or Atom, you can simply use your device’s notepad app to create and save files. I will be using Visual Studio in my examples, but you can use anything you feel comfortable with. To follow along with the tutorial, be ready to create some sort of program to include in the repository, or you can pre-create them.
 
@@ -12,7 +12,7 @@ In addition to Git, an IDE or Integrated Development Environment will be needed 
 
 
 
-Instructions for Windows					->
+## Instructions for Windows					->
 
 1.	Setup GitHub Desktop
 A good option for Git and GitHub control on Windows is through GitHub Desktop. This app allows users to access, edit, and release code without the use of commands and the terminal. To start using this product, download the app at https://desktop.github.com. To begin using it, you must first connect your GitHub account. Select File and then options at the menu at the top right of the window. Next, under accounts, there is an option to sign in. Select the GitHub.com option and enter your credentials.
@@ -48,7 +48,7 @@ You should be seeing the repository options screen again upon commitment. To pus
 
 
 
-Instructions for Linux 						->
+## Instructions for Linux 						->
 
 1.	Connect your GitHub account
 To access your GitHub repositories and make lasting changes, you need to first connect your GitHub account to your terminal. To do this, open your GitHub account in your browser. Locate your account username and email.
