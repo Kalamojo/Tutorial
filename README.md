@@ -21,7 +21,7 @@ A good option for Git and GitHub control on Windows is through GitHub Desktop. T
 2.	Create your repository
 Under the File menu option, select New Repository, and enter the name and description. After creating it, you should be brought to a screen that displays your repository options
 
-<p align="center"><img src=https://user-images.githubusercontent.com/64047609/143937929-8803cc8f-d320-4e03-a7e5-e976f00fd3c8.png" width="800"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/64047609/143937929-8803cc8f-d320-4e03-a7e5-e976f00fd3c8.png" width="800"></p>
 
 For this tutorial, we are going to select the “Show in Explorer” option. Upon selection, a File window pertaining to your repository should be opened and ready to work with.
 
