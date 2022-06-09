@@ -68,22 +68,28 @@ git config --global user.email "kalabiprof@gmail.com"
 
 2.	Create Repository 
 With your account now connected, you can now create your first repository. Its good practice to keep separate folders for each of your repositories. Navigate to a folder of choice. After doing so, use the command “git init” to initialize a repository.
+```Shell
 mkdir newRep
 cd newRep
 ~/newRep$ git init
+```
 
 
 3.	Open file in IDE
 Now, after creating your repository, you can code and save files there. In the Linux terminal, you can create a new file with the touch command. You can also do this by entering your chosen IDE (what you use to edit code) or file system and adding a file. For this example, I will be using Visual Studio to edit my file.
+```Shell
 touch newFile.py
 code newFile.py
+```
 
 The “code” command automatically opens the file in Visual Studio. Alternatively, you can simply run your editor and open your file from there.
 
 
 4.	Stage Changes
 After creating your program or document, you then need to stage the changes to be committed to your repository. To do this, you will use the “git add” command.
+```Shell
 git add newFile.py
+```
 
 At any given time throughout this process, it may be helpful to use the “git status” command. This does what the name implies, reporting the status of your repository and its files. You can use it after adding your file to ensure that it is staged.
 
@@ -92,7 +98,9 @@ At any given time throughout this process, it may be helpful to use the “git s
 
 5.	Commit Changes
 To commit your changes to your repository, you can make use of the “git commit” command. Unlike staging, the commit command allows you to include a message with your file. This message is used to explain what changes you made and why, and it is generally good practice to include them in your repositories. Here is an example of a commit:
+```Shell
 git commit -m "Created newFile to demonstrate git staging and commitment process"
+```
 
 6.	Create Repository on GitHub
 
