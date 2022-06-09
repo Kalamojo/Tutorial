@@ -61,9 +61,10 @@ To access your GitHub repositories and make lasting changes, you need to first c
 
 For me, that would be Kalamojo and kalabiprof@gmail.com. With this information, you can now configure your account in the terminal. Open your device terminal by either looking for it in your apps or pressing ‘ctrl + alt + t’ (keep in mind that this pertains to Linux operating systems). Once open, type these commands, replacing Kalamojo with your own username and kalabiprof@gmail.com with your own account email:
 
+```Shell
 git config --global user.name "Kalamojo"
 git config --global user.email "kalabiprof@gmail.com"
-
+```
 
 2.	Create Repository 
 With your account now connected, you can now create your first repository. Its good practice to keep separate folders for each of your repositories. Navigate to a folder of choice. After doing so, use the command “git init” to initialize a repository.
@@ -106,10 +107,12 @@ Finally, once all your file changes have been staged and committed, you are read
 <p align="center"><img src="https://user-images.githubusercontent.com/64047609/143938781-0c909a87-7912-4531-89d7-2b0ab7e70d41.png" alt="github repository setup"></p>
 
 With the link copied, navigate to your terminal once more. Use these three commands to push your repository to GitHub:
+```Shell
 git branch -M main
 git remote add origin "insert link here"
 git push -u origin main
-	
+```
+
 If the third command asks you to use your credentials, enter them.
 
 
