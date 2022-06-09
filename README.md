@@ -29,7 +29,7 @@ For this tutorial, we are going to select the “Show in Explorer” option. Upo
 3.	Add your files to Folder
 In your IDE of choice, create a program. Save the file into your repository folder.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/64047609/143938171-61bd0e22-d17b-435b-88e1-55e1da215430" alt="add file folder"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/64047609/143938171-61bd0e22-d17b-435b-88e1-55e1da215430.png" alt="add file folder"></p>
 
 Alternatively, you could move already existing files into the folder. When you go back to GitHub Desktop, you should see the changed files listed there, ready to be committed. 
 
